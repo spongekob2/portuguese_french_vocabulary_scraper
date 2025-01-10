@@ -35,3 +35,5 @@ Le fichier CSV généré aura la structure suivante :
 NomDuPaquet,MotPortugais,MotFrançais
 NomDuPaquet,MotPortugais,MotFrançais
 ```
+
+[Documentation Anki sur le format des fichiers importables.](https://docs.ankiweb.net/importing/text-files.html)
