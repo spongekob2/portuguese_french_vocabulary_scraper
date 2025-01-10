@@ -1,0 +1,10 @@
+[project]
+name = "portuguese-french-vocabulary-scraper"
+version = "0.1.0"
+description = "Scrapper pour récupérer du lexique portugais / français et en faire des cartes mémoires Anki."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "beautifulsoup4>=4.12.3",
+    "requests>=2.32.3",
+]
